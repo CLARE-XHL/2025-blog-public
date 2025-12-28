@@ -46,10 +46,10 @@
 	"currentBackgroundImageId": "eedbff013c6e3372",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/CLARE-XHL",
-			"label": "Github",
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://crclare.itch.io",
+			"label": "Itch",
 			"order": 1
 		},
 		{
@@ -60,18 +60,11 @@
 			"order": 2
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://crclare.itch.io",
-			"label": "Itch",
-			"order": 3
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "clare@359689.xyz",
 			"label": "",
-			"order": 4
+			"order": 3
 		}
 	],
 	"clockShowSeconds": true,
