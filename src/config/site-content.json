@@ -50,21 +50,28 @@
 			"type": "github",
 			"value": "https://github.com/CLARE-XHL",
 			"label": "Github",
-			"order": 3
+			"order": 1
+		},
+		{
+			"id": "button-1766910004376",
+			"type": "juejin",
+			"value": "https://afdian.com/a/crclare",
+			"label": "爱发电",
+			"order": 2
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
 			"value": "https://crclare.itch.io",
 			"label": "Itch",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "clare@359689.xyz",
 			"label": "",
-			"order": 1
+			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
