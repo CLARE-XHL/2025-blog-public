@@ -1,4 +1,5 @@
-本作Demo版本现已上线Itch，可前往https://crclare.itch.io/going-future-part-05获取
+本作Demo版本现已上线Itch，可前往https://crclare.itch.io/going-future-part-05
+获取
 该项目完全免费，但本作仍有大部分未完成，只是发出来给大家尝尝鲜，下次再发布应该就是正式版了吧🤗，支持请前往我的爱发电主页（请优先参与众筹，感谢）
 游戏简介：
 议会WCO管辖的独立属地宇宙乡，无自然昼夜，全靠能量光网维系运转
