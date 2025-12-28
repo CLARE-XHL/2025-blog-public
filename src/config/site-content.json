@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "Going Future",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"title": "CrCLARE",
+		"description": "CLARE的个人博客，记录知识分享、游戏开发、美好生活",
 		"username": "CLARE"
 	},
 	"theme": {
@@ -37,38 +37,42 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "eedbff013c6e3372",
+			"url": "/images/background/eedbff013c6e3372.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "eedbff013c6e3372",
 	"socialButtons": [
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/CLARE-XHL",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"value": "https://crclare.itch.io",
+			"label": "Itch",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "clare@359689.xyz",
 			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 20,
 	"hatFlipped": false,
 	"enableChristmas": true,
 	"beian": {
